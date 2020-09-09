@@ -23,9 +23,11 @@ git push heroku master
 heroku open
 ```
 
-Alternatively, you can deploy your own copy of the app using this button:
+HTML Button (OK working):
 
 <a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.png" referrerpolicy="no-referrer-when-downgrade" alt="Run on Google Cloud"></a>
+
+Markdown Button (broken):
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
