@@ -25,7 +25,7 @@ heroku open
 
 Alternatively, you can deploy your own copy of the app using this button:
 
-<a href="https://deploy.cloud.run"><img src="https://deploy.cloud.run/button.svg" referrerpolicy="no-referrer-when-downgrade" alt="Run on Google Cloud"></a>
+<a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.png" referrerpolicy="no-referrer-when-downgrade" alt="Run on Google Cloud"></a>
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
