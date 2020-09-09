@@ -1,6 +1,4 @@
-Forked from button-sample
-
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+Forked from https://github.com/heroku/button-sample.
 
 HTML Button (OK working):
 
