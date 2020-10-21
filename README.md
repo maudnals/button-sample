@@ -16,4 +16,4 @@ Markdown Button (broken):
 
 ## Referrer-Policy test - navigation
 
-<a href="https://example.com">Click</a>
+<a href="https://example.com">Click me!</a>
