@@ -8,6 +8,7 @@ Markdown Button (broken):
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
+Referrer-Policy test:
 
 <img src="https://i.imgur.com/XArLydn.jpg" width=200 height=200></img>
 
