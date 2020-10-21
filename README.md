@@ -9,5 +9,5 @@ Markdown Button (broken):
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 
-<img src="https://i.imgur.com/XArLydn.jpg" width=1 height=10></img>
+<img src="https://i.imgur.com/XArLydn.jpg" width=200 height=200></img>
 
