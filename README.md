@@ -10,5 +10,5 @@ Markdown Button (broken):
 
 Referrer-Policy test:
 
-<img src="https://i.imgur.com/XArLydn.jpg" width=200 height=200></img>
+<img src="https://i.imgur.com/XArLydn.jpg" width=200 height=200 />
 
