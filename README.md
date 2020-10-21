@@ -10,10 +10,10 @@ Markdown Button (broken):
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-## Referrer-Policy test
+## Referrer-Policy test - cross-origin image
 
 <img src="https://i.imgur.com/XArLydn.jpg" width=140 height=140 />
 
-
+## Referrer-Policy test - navigation
 
 <a href="https://example.com">Click</a>
